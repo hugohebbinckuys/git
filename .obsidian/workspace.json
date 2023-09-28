@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "a99fa15d0b48de7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b26f3c35c178e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb062709659e432f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "afe233385a7a0159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infos importantes un peu bordel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bcdbd5b1c384076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infos importantes un peu bordel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab02b78f5d99c69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commandes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c8747ee67af9131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "depot git local dans depot git distant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca320208718de36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infos importantes un peu bordel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6a45cc97210576e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c871ec69ddf937c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8040639f4f3efb90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc79f4a73ef627b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f27c5cfe9008457",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "32d085741097d23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbfbca3b8a6522ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1416cc9229485322",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "depot git local dans depot git distant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe974f4c3f0e0900",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "depot git local dans depot git distant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cab403c138fd2ac3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00e7cc8b77a30608",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "depot git local dans depot git distant.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "5c8747ee67af9131",
+  "lastOpenFiles": [
+    "infos importantes un peu bordel.md",
+    "important sur git.md",
+    "Clé ssh pour push et pull avec depot distant.md",
+    "depot git local dans depot git distant.md",
+    "commandes.md",
+    "Git clone.md"
+  ]
+}

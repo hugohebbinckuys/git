@@ -39,3 +39,13 @@ on doit ensuite faire un git push mais ca revoir la video car jsp bien
 git log permet de voir tous les commit qu'on a eu a faire 
 
 Pour l'instant on a initialisé un depot git et tout et ajouté des fichiers tout ca mais rien de bien ouf 
+
+
+git add -A = track tous les fichiers du repertoire la 
+
+si modifs => fichiers modifiés donc refaire git add pour sauvegarder 
+
+si y a des fichiers qu'on a pas ca nous empeche de push => on doit pull le bail pour recuperer les fichiers ou les sauvegardes pour ensuite pouvoir push 
+=> git pull origin master 
+MAIS si y a eu des changements en local ET en distant alors il faut faire une des trois solutions suivantes : soit fusionner, soit faire que les changements locaux  soit privilégiés soit rien mais ca j'ai pas compris 
+==> donc faire un merge ( git merge origin master) 
